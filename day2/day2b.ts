@@ -53,6 +53,9 @@ function main(input: number[]): number {
 
 }
 
-let result = main(input);
+const t1 = new Date().getTime();
+const result = main(input);
+const t2 = new Date().getTime();
 
 console.log('day2b:', result);
+console.log('time:', (t2 - t1), 'ms');
