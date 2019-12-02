@@ -1,0 +1,26 @@
+{
+  "name": "aoc2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfv/aoc2019.git"
+  },
+  "keywords": [
+    "aoc2019"
+  ],
+  "author": "bfv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bfv/aoc2019/issues"
+  },
+  "homepage": "https://github.com/bfv/aoc2019#readme",
+  "dependencies": {
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.2"
+  }
+}
